@@ -1,0 +1,1 @@
+{"description":"Taskflow — MERN to-do app (marks repo root as ESM so api/index.js loads as a module on Vercel)","name":"taskflow","private":true,"type":"module","version":"1.0.0"}
